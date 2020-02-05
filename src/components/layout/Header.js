@@ -5,7 +5,7 @@ function Header() {
   return (
     <header style={headerStyle}>
       <h1>My Todolist</h1>
-      <Link style={linkSyle} to="/">
+      <Link style={linkSyle} to="/ReactApp">
         Home
       </Link>{" "}
       ||{" "}
